@@ -1,0 +1,7 @@
+{
+  "name": "ClouViQ Python CI",
+  "description": "Lint and test a Python service the ClouViQ Labs way: pinned actions, read-only token.",
+  "iconName": "octicon checklist",
+  "categories": ["Python"],
+  "filePatterns": ["requirements.txt$"]
+}
